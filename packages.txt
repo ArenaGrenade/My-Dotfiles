@@ -1,0 +1,15 @@
+optimus-manager
+optimus-manager-qt
+python
+google-chrome
+mendeleydesktop-dev
+nordvpn-bin
+obsidian
+rocketchat-client-bin
+spotify
+spotify-adblock
+teams
+visual-studio-code-bin
+gparted
+blender
+telegram-desktop
